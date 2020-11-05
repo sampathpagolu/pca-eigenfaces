@@ -7,7 +7,7 @@ library(shiny)
 runGitHub("pca-eigenfaces", "sampathpagolu", ref="main")
 or
 download server.R and ui.R files and runApp() from RStudio
-to upload the dataset:
+dataset:
 download the dataset available from the github link or from the blackbaord
 use bupa.csv for PCA and olivetti_faces_data.csv for eigen faces.
 Ref:
