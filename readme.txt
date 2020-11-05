@@ -1,6 +1,5 @@
 Author: Lakshmi Sampath Pagolu
-R#:R11684446
-email:lpagolu@ttu
+email:lpagolu@ttu.edu
 how to run:
 githublink: https://github.com/sampathpagolu/pca-eigenfaces
 save this to a R script and source it
